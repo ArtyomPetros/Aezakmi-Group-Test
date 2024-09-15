@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>com.googleusercontent.apps.756687008929-uccdir2ieo2vqq72q3gb4fkkfeop977h</string>
+			</array>
+		</dict>
+	</array>
+	<key>UIAppFonts</key>
+	<array>
+		<string>Montserrat.ttf</string>
+		<string>Pacifico.ttf</string>
+	</array>
+</dict>
+</plist>
